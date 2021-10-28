@@ -1,10 +1,11 @@
 
 
 h1 {
+    font-size: 72px;
     text-align: center;
     font-weight: bold;
     margin: 50px 50px;
-
+    border: 20px solid red;
 }
 
 img{
