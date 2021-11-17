@@ -9,12 +9,12 @@
 }
 
 img{
-    height: 500px;
-    width: 400px;
-    min-height: 200px;
+    height: 30%;
+    width: 30%;
+    /* min-height: 200px;
     max-height: 500px;
     min-width: 100px;
-    max-width: 400px;
+    max-width: 400px; */
 }
 
 .weebs{
